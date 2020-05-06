@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06e385e58e6c494bb6f21a34b522263, type: 3}
+  m_Name: Smoothie
+  m_EditorClassIdentifier: 
+  _GameObject: {fileID: 0}
+  InventoryPicture: {fileID: 0}
+  CanCombineWith:
+  - {fileID: 11400000, guid: 8ff02caf0f059524bb07f823bdebee65, type: 2}
+  - {fileID: 11400000, guid: 4e7d0cc6844b0c8479cb2d841667439d, type: 2}
+  InteractionWith: []
+  Consumable: 0

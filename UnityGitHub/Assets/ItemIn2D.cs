@@ -2,15 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CustomScript : MonoBehaviour
+public class ItemIn2D : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Item MyItem;
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         
